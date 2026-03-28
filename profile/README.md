@@ -27,10 +27,7 @@ AI agents are proliferating across tools and platforms, but there is no common o
 | Repository | Description |
 |------------|-------------|
 | [`protocol`](./protocol) | The ZeroHuman specification — primitives, schemas, and resolution rules |
-| [`registry`](./registry) | Git-native registry, indexer, and CDN proxy for package discovery and delivery |
 | [`cli`](./cli) | Command-line tool for installing, validating, and managing ZeroHuman packages |
-| [`website`](./website) | Public website, catalog, and documentation |
-| [`community`](./community) | Coordination layer — proposals, listings, discussions, and governance |
 | [`runtime`](./runtime) | Reference runtime implementation |
 
 ---
@@ -60,7 +57,7 @@ Read the full specification: [`protocol/zerohuman-v0.1.0.md`](./protocol/zerohum
 
 ZeroHuman is built in the open. We welcome contributions from anyone working on agent infrastructure, tooling, or operations.
 
-- **Discuss** — Join conversations in the [community](./community) repository
+- **Discuss** — Join conversations in the [community](./.github) repository
 - **Propose** — Submit protocol changes via community Discussions → Proposals
 - **Build** — Create and publish your own ZeroHuman packages
 - **Review** — Help review community submissions and listings
