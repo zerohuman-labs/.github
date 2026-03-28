@@ -26,9 +26,9 @@ AI agents are proliferating across tools and platforms, but there is no common o
 
 | Repository | Description |
 |------------|-------------|
-| [`protocol`](./protocol) | The ZeroHuman specification — primitives, schemas, and resolution rules |
-| [`cli`](./cli) | Command-line tool for installing, validating, and managing ZeroHuman packages |
-| [`runtime`](./runtime) | Reference runtime implementation |
+| [`protocol`](https://github.com/zerohuman-labs/protocol) | The ZeroHuman specification — primitives, schemas, and resolution rules |
+| [`cli`](https://github.com/zerohuman-labs/cli) | Command-line tool for installing, validating, and managing ZeroHuman packages |
+| [`runtime`](https://github.com/zerohuman-labs/runtime) | Reference runtime implementation |
 
 ---
 
@@ -49,7 +49,7 @@ ZeroHuman defines **8 primitives** that together describe the complete operation
 
 Every package starts with a `zerohuman.yaml` manifest that declares what's inside and how to find it.
 
-Read the full specification: [`protocol/zerohuman-v0.1.0.md`](./protocol/zerohuman-v0.1.0.md)
+Read the full specification: [`protocol/zerohuman-v0.1.0.md`](https://github.com/zerohuman-labs/protocol/zerohuman-v0.1.0.md)
 
 ---
 
@@ -57,7 +57,7 @@ Read the full specification: [`protocol/zerohuman-v0.1.0.md`](./protocol/zerohum
 
 ZeroHuman is built in the open. We welcome contributions from anyone working on agent infrastructure, tooling, or operations.
 
-- **Discuss** — Join conversations in the [community](./.github) repository
+- **Discuss** — Join conversations in the [community](https://github.com/orgs/zerohuman-labs/discussions) repository
 - **Propose** — Submit protocol changes via community Discussions → Proposals
 - **Build** — Create and publish your own ZeroHuman packages
 - **Review** — Help review community submissions and listings
